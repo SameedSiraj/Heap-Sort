@@ -1,2 +1,2 @@
 # Heap-Sort
-Data Structure and Algorithm Project
+The topic of our project is Heap Sort which is a sorting algorithm. 
