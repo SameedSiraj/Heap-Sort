@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication63\ConsoleApplication63\bin\Debug\ConsoleApplication63.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication63\ConsoleApplication63\bin\Debug\ConsoleApplication63.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication63\ConsoleApplication63\bin\Debug\ConsoleApplication63.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication63\ConsoleApplication63\obj\Debug\ConsoleApplication63.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication63\ConsoleApplication63\obj\Debug\ConsoleApplication63.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication63\ConsoleApplication63\obj\Debug\ConsoleApplication63.pdb
+C:\Users\DELL\Desktop\D,h,P\ConsoleApplication63\bin\Debug\ConsoleApplication63.exe.config
+C:\Users\DELL\Desktop\D,h,P\ConsoleApplication63\obj\Debug\ConsoleApplication63.exe
+C:\Users\DELL\Desktop\D,h,P\ConsoleApplication63\obj\Debug\ConsoleApplication63.pdb
+C:\Users\DELL\Desktop\D,h,P\ConsoleApplication63\bin\Debug\ConsoleApplication63.exe
+C:\Users\DELL\Desktop\D,h,P\ConsoleApplication63\bin\Debug\ConsoleApplication63.pdb
+C:\Users\DELL\Desktop\D,h,P\ConsoleApplication63\obj\Debug\ConsoleApplication63.csprojResolveAssemblyReference.cache
